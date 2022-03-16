@@ -4,7 +4,7 @@
 ### (to be updated)
 
 ## DVC and 3D stereo DIC data from analogue models exploring interaction of viscous flow and surface deformation in rotational rift systems 
-### (to be updated)
+### (https://doi.org/10.5880/fidgeo.2022.006)
 
 # Content:
 MATLAB scripts and functions for reproducing figures
