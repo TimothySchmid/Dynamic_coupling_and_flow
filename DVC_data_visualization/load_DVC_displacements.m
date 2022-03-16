@@ -50,8 +50,8 @@ clc
 
 % CHOOSE EXPERIMENT NAME INPUT
 % ======================================================================= %
-INPUT.experimentname = 'EXP_825';
-INPUT.timestep       = 20;
+INPUT.experimentname = 'EXP_823';
+INPUT.timestep       = 240;
 
 % SET PATHS
 % ======================================================================= %
