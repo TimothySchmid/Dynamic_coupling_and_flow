@@ -1,7 +1,7 @@
 # Additional scripts to:
 
 ## Rotational extension promotes coeval upper crustal brittle faulting and deep-seated rift-axis parallel flow: Dynamic coupling processes inferred from analogue model experiments
-### (to be updated)
+### (https://doi.org/10.1029/2022jb024434)
 
 ## DVC and 3D stereo DIC data from analogue models exploring interaction of viscous flow and surface deformation in rotational rift systems 
 ### (https://doi.org/10.5880/fidgeo.2022.006)
